@@ -2,6 +2,7 @@
 DIY Esp32S3 ST7789 XPT2046 Lora Node
 
 This is a DIY stand alone Lora node with a 320x240 TFT Display with resistive touch, GPS and Keyboard
+Its made to be able to cheaply play/develop with the experimental Meshtastic UI
 
 Its is made out of the following components:
 - ESP32S3 N16R8 Devkit-C-1 Clone
@@ -77,4 +78,4 @@ Its is made out of the following components:
 ￼
 ### Which can be connected with dupont cables like this:
 
-![Image of DIY ESP32S3 ST7789 XPT2046 LoRa Node](/docs/example_wiring.png)	
+![Image of DIY ESP32S3 ST7789 XPT2046 LoRa Node](DIYLoraNode.png)	
